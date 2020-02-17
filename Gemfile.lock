@@ -12,8 +12,6 @@ GEM
     rack (2.2.2)
     rack-protection (2.0.8.1)
       rack
-    respec (0.9.1)
-      rspec (>= 2.11)
     rspec (3.9.0)
       rspec-core (~> 3.9.0)
       rspec-expectations (~> 3.9.0)
@@ -40,7 +38,7 @@ PLATFORMS
 
 DEPENDENCIES
   pry
-  respec
+  rspec
   sinatra
 
 BUNDLED WITH
